@@ -1,2 +1,2 @@
 # ProGitForProgrammers
-ProGitForProgrammers reoi
+ProGitForProgrammers repo
